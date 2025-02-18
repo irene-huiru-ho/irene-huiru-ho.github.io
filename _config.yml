@@ -24,9 +24,9 @@ author:
   avatar           : "20250107-2_crop.jpg"
   name             : "Hui-Ru (Irene) Ho"
   pronouns         : "she/her"  
-  bio              : "I study human-AI and human-robot collaboration, particularly in educational and family-related contexts."
+  # bio              : ""
   location         : "Madison, WI"
-  employer         : "University of Wisconsin-Madison"
+  # employer         : "University of Wisconsin-Madison"
   uri              : # URL
   email            : "hho24@wisc.edu" 
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "irene-huiru-ho"
+  # github           : "irene-huiru-ho"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
