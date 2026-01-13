@@ -10,11 +10,6 @@ Before I join this PhD program, I earned my dual Master's degree in both Compute
 
 My research centers on Human-AI Interaction (HAI) and Human-Robot Interaction (HRI). My goal is to understand, design, and develop interactive systems to enahnce human learning.
 
-## Research Interests
-
-- **Human-Agent Interaction:** 
-- **Human Learning and Cognition:** 
-
 ## News
 
 - **[Jan. 2026]** I am accepted to ACM/IEEE HRI 2026 Pioneers!
