@@ -1,3 +1,7 @@
+body {
+  background-color: #ede7e3; /* Change this to your desired color */
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -213,12 +217,12 @@ h1 {
 }
 
 a {
-  color:#82c0cc;
+  color:#47848f;
   text-decoration:none;
 }
 
 a:hover {
-  color:#47848f;
+  color:#82c0cc;
 }
 
 a small {
