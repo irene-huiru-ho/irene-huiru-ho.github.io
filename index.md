@@ -18,7 +18,7 @@ My research centers on Human-AI Interaction (HAI) and Human-Robot Interaction (H
 - **[Oct. 2025]** Attended IEEE IROS 2025 at Hangzhou, China 🇨🇳
 - **[Sept. 2025]** Attended ACM UIST 2025 at Busan, Korea 🇰🇷
 - **[Jan. 2025]** Accepted to ACM CHI 2025 Doctoral Consortium 🎖️
-- **[Jan. 2025]** Two paper accepted to ACM CHI 2025
+- **[Jan. 2025]** Two papers accepted to ACM CHI 2025
 - **[May. 2024]** Attended and presented at CHI 2024 in Honolulu, HI 🇺🇸
 - **[Jan. 2024]** One paper accepted to ACM CHI 2024 and won the Best Paper Honorable Mention Award 🥇
 
