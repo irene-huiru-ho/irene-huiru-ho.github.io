@@ -21,4 +21,3 @@ My research centers on Human-AI Interaction (HAI) and Human-Robot Interaction (H
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
