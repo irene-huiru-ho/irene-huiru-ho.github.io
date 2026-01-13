@@ -1,11 +1,11 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=OiUSjXYAAAAJ&hl=en) for full list of publications.
-
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
+
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=OiUSjXYAAAAJ&hl=en) for full list of publications.
 
 <li>
 <div class="pub-row">
