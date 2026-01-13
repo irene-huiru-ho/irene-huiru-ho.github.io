@@ -14,7 +14,7 @@ main:
     doi: https://dl.acm.org/doi/full/10.1145/3613904.3642806
     authors: <strong>Hui-Ru Ho</strong>, Edward Hubbard, Bilge Mutlu
     conference_short: CHI '24
-    conference: ACM Conference on Human Factors in Computing Systems <strong>(CHI 2024)</strong>. <color="red">Honorable Mention Award</color>
+    conference: ACM Conference on Human Factors in Computing Systems <strong>(CHI 2024)</strong>. <span style="color: red;">Honorable Mention Award</span>
     pdf: https://dl.acm.org/doi/epdf/10.1145/3613904.3642806
     image: ./assets/img/chi24_teasor.png
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
