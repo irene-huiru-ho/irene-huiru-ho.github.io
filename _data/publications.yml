@@ -1,14 +1,12 @@
 main:
 
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://bib.yliu.me/MICCAI23.txt
-  #   image: ./assets/img/teaser_example_2.png
-  #   notes: Early Accept
+  - title: "SET-PAiREd: Designing for Parental Involvement in Learning with an AI-Assisted Educational Robot"
+    doi: https://dl.acm.org/doi/full/10.1145/3706598.3713330
+    authors: <strong>Hui-Ru Ho</strong>, Nitigya Kargeti, Ziqi Liu, Bilge Mutlu
+    conference_short: CHI '25
+    conference: "Proceedings of the CHI Conference on Human Factors in Computing Systems <strong>(CHI 2025)</strong>."
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3706598.3713330
+    image: ./assets/img/chi25_teasor.png
 
   - title: "It's Not a Replacement: Enabling Parent-Robot Collaboration to Support In-Home Learning Experiences of Young Children"
     doi: https://dl.acm.org/doi/full/10.1145/3613904.3642806
