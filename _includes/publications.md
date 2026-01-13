@@ -5,8 +5,6 @@
 
 {% for link in site.data.publications.main %}
 
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=OiUSjXYAAAAJ&hl=en) for full list of publications.
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -18,7 +16,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=OiUSj
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.acm_website }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
