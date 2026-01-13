@@ -12,7 +12,15 @@ My research centers on Human-AI Interaction (HAI) and Human-Robot Interaction (H
 
 ## News
 
-- **[Jan. 2026]** I am accepted to ACM/IEEE HRI 2026 Pioneers!
+- **[Jan. 2026]** Accepted to ACM/IEEE HRI 2026 Pioneers 🎖️
+- **[Sept. 2025]** Began my research visit in Singapore 🇸🇬 with Prof. [Jiannan Li](https://jchrisli.github.io/)
+- **[May. 2025]** Attended and presented at CHI 2025 in Yokohama, Japan 🇯🇵
+- **[Oct. 2025]** Attended IEEE IROS 2025 at Hangzhou, China 🇨🇳
+- **[Sept. 2025]** Attended ACM UIST 2025 at Busan, Korea 🇰🇷
+- **[Jan. 2025]** Accepted to ACM CHI 2025 Doctoral Consortium 🎖️
+- **[Jan. 2025]** Two paper accepted to ACM CHI 2025
+- **[May. 2024]** Attended and presented at CHI 2024 in Honolulu, HI 🇺🇸
+- **[Jan. 2024]** One paper accepted to ACM CHI 2024 and won the Best Paper Honorable Mention Award 🥇
 
 {% include_relative _includes/publications.md %}
 
