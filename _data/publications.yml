@@ -19,4 +19,20 @@ main:
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
+
+  - title: "Designing Parent-child-robot Interactions to Facilitate In-Home Parental Math Talk with Young Children"
+    doi: https://dl.acm.org/doi/abs/10.1145/3585088.3589358
+    authors: <strong>Hui-Ru Ho</strong>, Nathan White, Edward Hubbard, Bilge Mutlu
+    conference_short: IDC '23
+    conference: "Proceedings of the Interaction Design and Children Conference <strong>(IDC 2023)</strong>."
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3585088.3589358
+    image: ./assets/img/idc23_teasor.png
+
+  - title: "RoboMath: Designing a Learning Companion Robot to Support Children’s Numerical Skills"
+    doi: https://dl.acm.org/doi/abs/10.1145/3459990.3460709
+    authors: <strong>Hui-Ru Ho</strong>, Bengisu Cagiltay, Nathan White, Edward Hubbard, Bilge Mutlu
+    conference_short: IDC '21
+    conference: "Proceedings of the Interaction Design and Children Conference <strong>(IDC 2021)</strong>."
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3459990.3460709
+    image: ./assets/img/idc21_teasor.png
     
