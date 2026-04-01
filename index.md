@@ -12,6 +12,8 @@ My research centers on Human-AI Interaction (HAI) and Human-Robot Interaction (H
 
 ## News
 
+- **[Mar. 2026]** One paper accepted to ACM IDC 2026
+- **[Mar. 2026]** One paper accepted to ACM DIS 2026
 - **[Jan. 2026]** Accepted to ACM/IEEE HRI 2026 Pioneers 🎖️
 - **[Oct. 2025]** Completed my PhD qualifying exam. I am grateful for the support from my committee members: [Bilge Mutlu](https://bmutlu.github.io), [Junjie Hu](https://junjiehu.github.io), and [Vikas Singh](https://biostat.wiscweb.wisc.edu/staff/singh-vikas/)
 - **[Oct. 2025]** Attended IEEE IROS 2025 at Hangzhou, China 🇨🇳
