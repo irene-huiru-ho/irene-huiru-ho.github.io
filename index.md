@@ -16,7 +16,8 @@ Before I join this PhD program, I earned my dual Master's degree in both Compute
 ## News
 
 - **[Oct. 2026]** I finished my internship as an Applied Scientist at Fauna Robotics, Amazon!
-- **[Jun. 2026]** I started my internship as an Applied Scientist at Fuuna Robotics, Amazon!
+- **[Sept. 2026]** I will serve as the Lead Program Chair for [HRI 2027 Pioneers Workshop](https://hripioneers.org).
+- **[Jun. 2026]** I started my internship as an Applied Scientist at Fuuna Robotics, Amazon.
 - **[Mar. 2026]** One paper accepted to ACM IDC 2026
 - **[Mar. 2026]** One paper accepted to ACM DIS 2026
 - **[Mar. 2026]** Finished my visit in Singapore. Attended ACM/IEEE HRI 2026!
