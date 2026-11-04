@@ -206,8 +206,14 @@ papertitle {
       width: 100%;
     }
 
+    // Size the wrapper explicitly rather than giving the <img> a percentage
+    // width -- see the matching comment in minimal-light-no-dark-mode.scss.
     .image.avatar {
       border-radius: 6px;
+      display: block;
+      width: 200px;
+      max-width: 100%;
+      margin: 0 auto 0.6em;
     }
 
       .image.avatar:before {
@@ -216,18 +222,11 @@ papertitle {
 
       .image.avatar img {
         border-radius: 6px;
-        width: 71%;
-        // No padding: it would sit between the photo edge and the box-shadow,
-        // leaving the shadow visibly detached. Spacing comes from margin.
+        display: block;
+        width: 100%;
         padding: 0;
-        margin-bottom: 0.6em;
         box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.22);
       }
-
-    #header .image.avatar {
-      margin: 0 0 1em 0;
-      width: 8.00em;
-    }
 
 h3, h4, h5, h6 {
   font-weight: 600;
@@ -499,11 +498,14 @@ footer {
   }
 
 
+   .image.avatar {
+        width: 175px;
+      }
+
    .image.avatar img {
         border-radius: 6px;
-        width: 175px;
+        width: 100%;
         padding: 0;
-        margin-bottom: 0.6em;
         box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.22);
       }
   #head1o2 {
@@ -557,11 +559,14 @@ footer {
     width:33%;
   }
 
+  .image.avatar {
+      width: 142px;
+  }
+
   .image.avatar img {
       border-radius: 6px;
-      width: 142px;
+      width: 100%;
       padding: 0;
-      margin-bottom: 0.6em;
       box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.22);
   }
   #head1o2 {
