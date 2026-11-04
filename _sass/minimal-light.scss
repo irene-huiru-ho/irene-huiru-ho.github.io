@@ -216,11 +216,12 @@ papertitle {
 
       .image.avatar img {
         border-radius: 6px;
-        width: 45%;
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+        width: 58%;
+        // No padding: it would sit between the photo edge and the box-shadow,
+        // leaving the shadow visibly detached. Spacing comes from margin.
+        padding: 0;
+        margin-bottom: 0.6em;
+        box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.22);
       }
 
     #header .image.avatar {
@@ -500,8 +501,10 @@ footer {
 
    .image.avatar img {
         border-radius: 6px;
-        width: 117px;
-        padding:20px;
+        width: 145px;
+        padding: 0;
+        margin-bottom: 0.6em;
+        box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.22);
       }
   #head1o2 {
     visibility: hidden;
@@ -556,8 +559,10 @@ footer {
 
   .image.avatar img {
       border-radius: 6px;
-      width: 95px;
-      padding:20px;
+      width: 118px;
+      padding: 0;
+      margin-bottom: 0.6em;
+      box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.22);
   }
   #head1o2 {
     visibility: hidden;
